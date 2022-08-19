@@ -19,3 +19,9 @@
 ```bash
   pip install -r requirements.txt
 ```
+
+
+##### Run the main.py file
+```bash
+  streamlit run main.py
+```
